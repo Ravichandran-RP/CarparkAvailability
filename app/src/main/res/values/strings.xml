@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carpark Availability</string>
+    <string-array name="spinnerItems">
+    <item>ALL</item>
+    <item>C</item>
+    <item>H</item>
+    <item>Y</item>
+    </string-array>
+</resources>
